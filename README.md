@@ -1,1 +1,2 @@
 # useGITHUB
+use commit cmd
